@@ -1,0 +1,14 @@
+{
+    "emission_factor_kg_per_kwh": 0.7,
+    "appliances": [
+        {
+            "id": 1,
+            "name": "Fridge",
+            "quantity": 5,
+            "wattage": 300.0,
+            "is_on": false,
+            "turned_on_at": null
+        }
+    ],
+    "usage_sessions": []
+}

@@ -1,0 +1,70 @@
+HOUSEHOLD CARBON FOOTPRINT TRACKER
+
+==========================================================
+       HOUSEHOLD CARBON FOOTPRINT TRACKER
+==========================================================
+
+1. View Appliances
+2. Add Appliance
+3. Remove Appliance
+4. Turn Appliance ON
+5. Turn Appliance OFF
+6. View Running Appliances
+7. View Energy & Carbon Summary
+8. View Usage Records
+9. Generate Household Report
+10. Exit
+11. Update Appliance
+
+Enter your choice: 2
+
+Enter appliance name: Ceiling Fan
+Enter number of units: 3
+Enter wattage per unit (W): 75
+
+[SUCCESS] Appliance added successfully.
+
+Enter your choice: 4
+
+Enter appliance ID to turn ON: 1
+Ceiling Fan turned ON.
+
+Enter your choice: 5
+
+Enter appliance ID to turn OFF: 1
+Ceiling Fan turned OFF.
+Session duration: 2.00 hours
+
+Enter your choice: 7
+
+HOUSEHOLD ENERGY & CARBON SUMMARY
+-------------------------------------------------------
+Total electricity used/estimated : 0.450 kWh
+Emission factor                 : 0.700 kg CO2/kWh
+Estimated carbon emissions      : 0.315 kg CO2
+
+APPLIANCE-WISE CONSUMPTION
+-------------------------------------------------------
+Ceiling Fan                 0.450 kWh     0.315 kg CO2
+
+Enter your choice: 9
+
+HOUSEHOLD ENERGY & CARBON SUMMARY
+-------------------------------------------------------
+Total electricity used/estimated : 0.450 kWh
+Emission factor                 : 0.700 kg CO2/kWh
+Estimated carbon emissions      : 0.315 kg CO2
+
+REGISTERED APPLIANCES
+----------------------------------------------------------------------
+ID   Appliance             Units   Wattage     Status
+----------------------------------------------------------------------
+1    Ceiling Fan           3       75.0        OFF
+
+CURRENTLY RUNNING
+---------------------------------------------
+No appliances are currently ON.
+
+Enter your choice: 10
+
+Thank you for using Household Carbon Footprint Tracker.
